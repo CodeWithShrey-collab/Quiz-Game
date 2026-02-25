@@ -40,5 +40,12 @@ Quiz-Game/
 - Conditional rendering
 
 ---
+## 🔧 Installation
 
+Clone the repository:
+
+git clone https://github.com/CodeWithShrey-collab/quiz-game.git
+
+---
+Open index.html in your browser.
 Created as a frontend practice project 🚀
